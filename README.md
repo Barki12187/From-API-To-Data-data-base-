@@ -1,7 +1,7 @@
 # From-API-To-Data-data-base-
 Le But Remplir une base de donnée via deux API différente. 
 
- Etapes de realisation:
+ Etapes de réalisation:
 
     Choisir les deux APIs (Statistique de Covid).
 
