@@ -1,15 +1,14 @@
-# From-API-To-Data-data-base-
-Le But Remplir une base de donnée via deux API différente. 
+# From-API-To-Data-Base
+Le But de ce projet est de Remplir une base de données via des APIs. 
+(dans notre cas on a utilisé "instagram" et "Rest Countries")
 
- Etapes de réalisation:
 
-    Choisir les deux APIs (Statistique de Covid).
+Les étapes de réalisation : 
+1- Choix des APIs.
+2- Ecrire un programme python qui recupère les données depuis l'API choisi et les transforme en JSON.
+3- Construction de schéma de donnée pouvant stocker de manière stucturé les données des API choisi.
+4- Crée une base de données SQL server
+5- Stocker les données recuperée dans cette base de données utilisant (transact SQL)
 
-    Faire un dicionnaire de donnéES de cette API.
 
-    Construction de schéma de donnée pouvant stocker de manière stucturé les données des API choisi.
-
-    Creer une base de donnée avec la structure definit.
-
-    remplir la base de donnés crée.
-
+URL de l'API :
