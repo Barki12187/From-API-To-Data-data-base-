@@ -1,6 +1,6 @@
 # From-API-To-Data-Base
 Le But de ce projet est de Remplir une base de données via des APIs. 
-(dans notre cas on a utilisé "instagram" et "Rest Countries")
+(dans notre cas on a utilisé "Covid 19" et "Vaccination")
 
 
 Les étapes de réalisation : 
